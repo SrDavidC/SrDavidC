@@ -1,6 +1,6 @@
 # 🚀 Nice to see you here 
 ### **Introduction**
-I'm David, passionate 20-year-old software enginieering student and software developer freelancer who **loves building optimized, clean and fresh code** with **Java** and **JavaScript**. 
+I'm David, passionate 20-year-old software enginieering student and software developer freelancer who **loves building optimized, clean and fresh code** with **Java**.
 
 AI and open-source enthuasiast
 
@@ -22,10 +22,8 @@ AI and open-source enthuasiast
 * 💼 Open to work
 
 <details>
-<summary>Test</summary>
+<summary>Some about me</summary>
   
-  * Opción 1
-  * Opción 2
-  * Opción 3
+ * 🐶 My dream dog is a Doberman
   
 </details>
