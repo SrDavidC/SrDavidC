@@ -4,9 +4,9 @@ I'm David, passionate 20-year-old software enginieering student and software dev
 
 AI and open-source enthuasiast
 
-### **I've work in projects with**
+### **I've work in projects using**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,gradle,github,git,discord,nodejs,docker,linux,azure,vscode,idea,github,replit,gitlab,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,gradle,github,git,discord,bots,nodejs,docker,linux,azure,vscode,idea,github,replit,gitlab)](https://skillicons.dev)
 
 ### **I've used it occasionally**
 
