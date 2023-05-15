@@ -1,4 +1,4 @@
-# **🚀 Nice to see you here **
+# 🚀 Nice to see you here 
 ### **Introduction**
 I'm David, passionate 20-year-old software enginieering student and software developer freelancer who **loves building optimized, clean and fresh code** with **Java** and **JavaScript**. I'm particularly skilled in **designing websites** and creating **robust APIs** using the latest technologies like **React** and **NestJS**. I also have experience in crafting **Minecraft plugins** using **PaperMC**, **BungeeCord** & **Velocity** APIs and I enjoy working with databases like **MongoDB**, **Redis**, and occasionally **MySQL**.
 
