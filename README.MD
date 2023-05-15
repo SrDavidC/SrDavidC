@@ -15,3 +15,17 @@ AI and open-source enthuasiast
 ### **I want to learn / I'm currently learning**
 
 [![My Skills](https://skillicons.dev/icons?i=spring,docker,mysql,firebase,rust,kotlin,)](https://skillicons.dev)
+
+* 🧐 Interested in full stack
+* ⛵ Encouraging people for make open source code
+* 🌱 Currently in the second-to-last year of my Software Engineering degree and with two years of software development freelance.
+* 💼 Open to work
+
+<details>
+<summary>Test</summary>
+  
+  * Opción 1
+  * Opción 2
+  * Opción 3
+  
+</details>
