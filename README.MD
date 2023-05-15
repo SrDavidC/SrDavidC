@@ -6,7 +6,7 @@ AI and open-source enthuasiast
 
 ### **I've work in projects with**
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,discord,bots,nodejs,docker,linux,html,css,git,gradle,azure,vscode,idea,github,replit,gitlab,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,discord,bots,nodejs,docker,linux,html,css,git,gradle,azure,vscode,idea,github,replit,gitlab,&perline=10)](https://skillicons.dev)
 
 ### **I have used it occasionally**
 
@@ -14,4 +14,4 @@ AI and open-source enthuasiast
 
 ### **I want to learn / I'm currently learning**
 
-[![My Skills](https://skillicons.dev/icons?i=activitypub,spring,docker,mysql,firebase,rust,kotlin,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,docker,mysql,firebase,rust,kotlin,)](https://skillicons.dev)
