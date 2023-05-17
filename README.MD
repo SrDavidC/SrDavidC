@@ -6,15 +6,15 @@ AI and open-source enthuasiast
 
 ### **I've work in projects using**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,gradle,github,git,discord,bots,nodejs,docker,linux,azure,vscode,idea,github,replit,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,gradle,github,git,discord,bots,nodejs,docker,azure,vscode,idea,github,replit,gitlab)](https://skillicons.dev)
 
 ### **I've used it occasionally**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,maven,heroku,latex,mongodb,r,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,maven,heroku,latex,mongodb,r,raspberrypi,linux,)](https://skillicons.dev)
 
 ### **I want to learn / I'm currently learning**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,docker,mysql,firebase,rust,kotlin,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,docker,mysql,firebase,rust,kotlin,linux,)](https://skillicons.dev)
 
 ### About me
 * 🧐 Interested in full stack
